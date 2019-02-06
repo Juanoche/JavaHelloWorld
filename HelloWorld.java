@@ -1,4 +1,4 @@
-package space.pentaquark.demo;
+package demo;
 
 /**
  * Hello world!
